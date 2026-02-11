@@ -31,4 +31,4 @@
 - 💼 LinkedIn: ()
 - 📧 Email: (talisonbcardoso30@gmail.com)
   
-<div>Uma frase legal</div>
+<div> 🚀 Construindo meu futuro uma linha de código por vez. </div>
