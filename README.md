@@ -26,7 +26,7 @@
 </p>
 
 ### Projetos
-
+<img src="https://i.imgur.com/c7a1PkU.png" />
 ### 📫 Entre em contato
 - 💼 LinkedIn: ()
 - 📧 Email: (talisonbcardoso30@gmail.com)
