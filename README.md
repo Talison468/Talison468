@@ -1,4 +1,8 @@
-<h1 align="center"> Olá, eu sou o Talison👋</h1>
+<h1 align="center">👋 Olá, eu sou Talison Borges Cardoso</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Front-end+e+Back-end;Construindo+meu+futuro🚀">
+</p>
 
   💻 Desenvolvedor Full Stack em formação <br>
   🚀 Focado em Java e desenvolvimento web
@@ -26,9 +30,11 @@
 </p>
 
 ### Projetos
-<img src="https://i.imgur.com/c7a1PkU.png" />
+<img src="https://i.imgur.com/c7a1PkU.png" width="500"/>
+
 ### 📫 Entre em contato
-- 💼 LinkedIn: ()
+
+- 💼 LinkedIn: (talison borges cardoso)
 - 📧 Email: (talisonbcardoso30@gmail.com)
   
 <div> 🚀 Construindo meu futuro uma linha de código por vez. </div>
