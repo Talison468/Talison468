@@ -36,17 +36,9 @@
 
 ##
 
-### 📫 Entre em contato
-
-- 💼 LinkedIn: (talison borges cardoso)
-- 📧 Email: (talisonbcardoso30@gmail.com)
+<div> 🚀 Construindo meu futuro uma linha de código por vez. </div>
 
 ##
-<div> 
-  <a href="https://instagram.com/talisonbc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:talisonbcardoso30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/talison-borges-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 <div> 
   <a href="https://instagram.com/talisonbc" target="_blank">
@@ -55,9 +47,7 @@
   <a href="mailto:talisonbcardoso30@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/talison-borges-cardoso/" target="_blank">
+  <a href="https://www.linkedin.com/in/talison-borges-cardoso-a17a58333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
-
-<div> 🚀 Construindo meu futuro uma linha de código por vez. </div>
